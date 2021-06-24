@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /dashboard
+Disallow: /dashboard/*
+Disallow: /track/*
+Disallow: /signin
+
+
+
+Sitemap: https://xeniac.ir/sitemap.xml
